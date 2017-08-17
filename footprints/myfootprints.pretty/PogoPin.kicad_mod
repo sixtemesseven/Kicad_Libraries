@@ -1,0 +1,9 @@
+(module PogoPin (layer F.Cu) (tedit 57C1BCC0)
+  (fp_text reference REF** (at 3 -3) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value PogoPin (at 14 -1) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 smd rect (at 0 0) (size 1.8 8) (layers F.Cu F.Paste F.Mask))
+)

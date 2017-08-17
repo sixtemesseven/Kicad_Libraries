@@ -1,0 +1,10 @@
+(module Ground_Seperator (layer F.Cu) (tedit 57BEC192)
+  (fp_text reference REF** (at 1 1) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Ground_Seperator (at 0 -4) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 2 thru_hole circle (at 0 0) (size 0.8 0.8) (drill 0.45) (layers *.Cu))
+  (pad 1 thru_hole circle (at 0 0) (size 0.8 0.8) (drill 0.45) (layers *.Cu *.Mask F.SilkS))
+)

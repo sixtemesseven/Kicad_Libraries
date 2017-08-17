@@ -1,0 +1,10 @@
+(module M3_Mounting (layer F.Cu) (tedit 5892F796)
+  (fp_text reference LSP2 (at -6 5) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Sol+ (at 0 1.75) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole circle (at 0 -0.25) (size 4 4) (drill 3.2) (layers *.Cu *.Mask F.SilkS))
+  (pad 1 smd rect (at 0 -2.75) (size 5 10) (layers F.Cu F.Paste F.Mask))
+)

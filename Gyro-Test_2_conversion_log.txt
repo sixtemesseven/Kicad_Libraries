@@ -1,0 +1,5 @@
+#********** START OF exp-lbrs.ulp 6.6 16-12-2016 :11:43:59 LOG **********#
+OK: Eagle lib export from SCH/PCB OK
+    Conversion completed with no Messages
+#********** END OF exp-lbrs.ulp 6.6 16-12-2016 :11:43:59 LOG **********#
+
